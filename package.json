@@ -1,0 +1,16 @@
+{
+  "name": "code-challenges",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Luke Askew",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "eslint": "5.10.0",
+    "eslint-config-airbnb-base": "13.1.0",
+    "eslint-plugin-import": "2.14.0",
+    "jest": "23.6.0"
+  }
+}
